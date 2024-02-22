@@ -9,9 +9,7 @@ tags: juegos,mierda
 
 ---
 
-# TITULO
-
-Contenido del about
+# ALVARO
 
 Soy alvaro y voy al gym
 
