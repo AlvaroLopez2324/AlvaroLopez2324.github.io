@@ -13,5 +13,5 @@ tags: juegos,mierda
 
 Contenido del about
 
-hola danielo
+Soy alvaro y voy al gym
 
