@@ -2,8 +2,8 @@
 
 title: "Gallery"
 gallery:
-  - url: https://www.minecraft.net/content/dam/games/minecraft/key-art/Games_Subnav_Minecraft-300x465.jpg
-    image_path: https://www.minecraft.net/content/dam/games/minecraft/key-art/Games_Subnav_Minecraft-300x465.jpg1
+  - url: https://loremflickr.com/320/240
+    image_path: https://loremflickr.com/320/240?random=1
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: https://loremflickr.com/320/240
