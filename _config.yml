@@ -4,6 +4,13 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
 
+minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+plugins:
+  - jekyll-remote-theme 
+  - jekyll-include-cache # add this line to the plugins list if you already have one
+  - jekyll-paginate
+
 title: hola ASIR2
 
 defaults:
@@ -38,5 +45,5 @@ paginate_path: /blog/page:num/
 minima:
   skin: dark
 
-name: alvaro lopez
+name: oscar novillo
   
